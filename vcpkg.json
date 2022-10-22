@@ -1,0 +1,11 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+    "name": "tadah-dll",
+    "version": "1.0.0",
+    "dependencies": [
+        "curl",
+        "detours",
+        "discord-rpc",
+        "rapidjson"
+    ]
+}
